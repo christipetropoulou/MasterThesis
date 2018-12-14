@@ -11,6 +11,7 @@ high=3;%kmax
 figure
 plot(Vin,OUT_Iout);
 
+%plot every pair
 colorstring = 'kbgrycm';
 figure
 hold on
